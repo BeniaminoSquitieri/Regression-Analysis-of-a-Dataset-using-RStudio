@@ -4,12 +4,6 @@
 
 This project involves the analysis of a dataset related to the technical specifications of a computer system. The analysis was conducted using **RStudio** and includes several statistical techniques such as correlation analysis, hypothesis testing, and regression analysis. The main objective was to assess how different independent variables (regressors) influence a dependent variable, specifically a **standardized index of software performance**.
 
-## Team Members
-
-- **Nicola Lanzara**
-- **Fabrizio Sarno**
-- **Beniamino Squitieri**
-- **Antonio Vitale**
 
 ### Tools Used
 
